@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+templater.so
+templater.dylib
+templater.dll
+templater.a
+templater.lib
+templater-test-*
+*.exe
+*.o
+*.obj
+*.lst
