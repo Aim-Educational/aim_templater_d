@@ -12,3 +12,4 @@ templater-test-*
 *.o
 *.obj
 *.lst
+*.lib
